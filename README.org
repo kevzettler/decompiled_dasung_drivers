@@ -1,0 +1,7 @@
+* Dasung linux drivers decompiled
+
+This repo contains decompiled versions of the Dasung Paperlikepro Ubuntu Linux drivers.
+The drivers were decompiled using the [[https://github.com/yegord/snowman][Snowman decompiler]]
+
+For more information visit:
+https://kevzettler.com/2018/12/13/dasung-linux-driver-decompiled
